@@ -38,9 +38,9 @@ Motivated and detail-oriented Java Developer with strong knowledge of Core Java 
 ---
 
 ## 🎓 Education
-[Your Qualification]  
-[College Name]  
-[Year]  
+B.Tech in Mechanical Engineering (Pursuing)  
+Kalam Institute of Technology  
+2023 – 2027 (Expected)  
 
 ---
 
